@@ -1,0 +1,5 @@
+streamlit
+langchain
+google-api-python-client
+langchain_google_genai
+PyPDF2
